@@ -7,6 +7,10 @@ public class Principal {
 		/**Mensajes de rama1**/
 		System.out.print("Primer mensaje de la rama1");
 		System.out.print("Segundo mensaje de la rama1");
+		
+		/**Mensajes de rama2**/
+		System.out.print("Primer mensaje de la rama2");
+		System.out.print("Segundo mensaje de la rama2");
 	}
 
 }
